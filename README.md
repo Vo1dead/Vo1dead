@@ -18,6 +18,8 @@ If you have questions about anything [shoot me an email](mailto:VoideadYT@gmail.
 - Tierlist Overseer - 1.9+ Bridge PvP Community
 - Tierlist Mod - 1.21+ AxePot Community
 - Owner - Turge Tierlist
+- Tielrist Admin - Sumo Tierlist
+
 ### Minecraft Staff:
 - Mod - FishFFA
 - Crew - BridgeSplash
