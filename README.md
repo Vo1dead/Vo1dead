@@ -2,7 +2,7 @@
 
 Hi!  I'm Ethan, a Python and Java Developer, who mainly focuses on small projects to improve the major projects I am apart of.  I am also a very skilled Digital Forensist (screensharer) for many minecraft servers and tierlists.
 
-If you have questions about anything [shoot me an email](mailto:VoideadYT@gmail.com) or DM me on discord! (Vo1dead)
+If you have questions about anything [shoot me an email](mailto:ethan@bridgepvp.net) or DM me on discord! (Vo1dead)
 
 ## Major Projects I am apart of!
 - [Snowball Leauge](https://discord.gg/ENtFhCREU8/)
